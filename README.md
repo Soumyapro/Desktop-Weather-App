@@ -7,16 +7,6 @@ Beautiful, minimal desktop app to check today's weather by city. Built with Pyth
 - **Fast search** by city name
 - **Robust error handling** and helpful messages
 
-### Preview
-Add a screenshot or GIF here (optional):
-
-```text
-screenshots/
-  app.png
-```
-
----
-
 ## Getting Started
 
 ### Prerequisites
@@ -90,9 +80,7 @@ build_executable.bat    # Helper script to produce a Windows .exe (optional)
 - "API key not configured": ensure `OPENWEATHER_API_KEY` is set in your shell or `.env`.
 - Network errors: check your internet connection and try again.
 
----
 
-## License
-MIT (or your preferred license). Add a `LICENSE` file if you wish.
+
 
 
